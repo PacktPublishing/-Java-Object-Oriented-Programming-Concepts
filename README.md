@@ -9,17 +9,12 @@ You will learn about all these fundamental aspects in this course.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Effectively parse JSON streams 
-<LI>Write JSON data to streams 
-<LI>Use JSON model API to create and transform JSON documents 
-<LI>Create JSON patches and use them to make batch modifications in JSON documents 
-<LI>Study Jason Merge Patch as another option of modifying JSON documents 
-<LI>Configure your project to use JSON Binding and Yasson
-<LI>Use default mapping for serializing/deserializing a simple Java class
-<LI>Understand what date formats are used by default
-<Li>Use annotations to customize your mapping
-<Li>Use JSON-B adapters
-<Li>Use JSON-B serializers and deserializers </LI></UL></DIV>
+<LI>Discover the building blocks of Java program 
+<LI>Explore the four pillars of Object-Oriented Programming 
+<LI>Learn the intricacies of Inheritance and Polymorphism, Abstract Classes and Interfaces&nbsp; 
+<LI>Discover the in memory<SPAN style="BACKGROUND-COLOR: transparent"> representation and management of a Java program which is the foundation for understanding and analyzing the performance of a Java program</SPAN> 
+<LI>Understand the implementation and use of the functions: hashCode() and equals()&nbsp; 
+<LI>Master the fundamentals aspects of the Java Collection Framework </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
