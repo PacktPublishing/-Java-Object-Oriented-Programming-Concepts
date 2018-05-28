@@ -9,11 +9,17 @@ You will learn about all these fundamental aspects in this course.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Learn what is refactoring , when, and why to use refactoring 
-<LI>Find out what is code smell, design smell, and software entropy 
-<LI>Get familiar with abstraction based refactoring techniques such as encapsulate field, generalize type, and replace condition with polymorphism 
-<LI>Understand breaking code apart with refactoring techniques such as componentization, extract class, and extract method 
-<LI>Learn to improve names and location of your code with move method, rename method, pull up and push down refactoring techniques </LI></UL></DIV>
+<LI>Effectively parse JSON streams 
+<LI>Write JSON data to streams 
+<LI>Use JSON model API to create and transform JSON documents 
+<LI>Create JSON patches and use them to make batch modifications in JSON documents 
+<LI>Study Jason Merge Patch as another option of modifying JSON documents 
+<LI>Configure your project to use JSON Binding and Yasson
+<LI>Use default mapping for serializing/deserializing a simple Java class
+<LI>Understand what date formats are used by default
+<Li>Use annotations to customize your mapping
+<Li>Use JSON-B adapters
+<Li>Use JSON-B serializers and deserializers </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
