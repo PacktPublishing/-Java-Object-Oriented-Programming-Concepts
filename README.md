@@ -19,9 +19,6 @@ You will learn about all these fundamental aspects in this course.
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for programmers who have coded in Java or who have been coding in Java and wish to move to the next level and start the journey to become a confident java developer and why not a expert. This course is also the first step in moving from writing unstructured code to writing structured, elegant, articulated programs.
-### Technical Requirements
-This course has the following software requirements:<br/>
-...
 
 ## Related Products
 * [Learning Java 9 – Object Oriented Programming [Video]](https://www.packtpub.com/application-development/learning-java-9-–-object-oriented-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781788623933)
