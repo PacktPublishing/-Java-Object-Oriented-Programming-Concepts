@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/java-object-oriented-programming-concepts-integrated-course/9781788296106)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Java: Object-Oriented Programming Concepts [Integrated Course]
 This is the code repository for [Java: Object-Oriented Programming Concepts [Integrated Course]](https://www.packtpub.com/application-development/java-object-oriented-programming-concepts-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788296106), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
